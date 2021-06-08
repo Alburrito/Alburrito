@@ -7,7 +7,7 @@ I am Álvaro, a 23 year old engineer. I'm interested in Data Science and the won
 
 ## :thought_balloon: About me
 - 📚 Finishing my degree at the University of Salamanca
-- :technologist: Working as researcher in the are of Big Data at BISITE research group
+- :technologist: Working as researcher in the area of Big Data at BISITE research group
 - 🌱 Discovering step by step that thing we call Arch Linux
 
 ## 🛠 My tech stack
