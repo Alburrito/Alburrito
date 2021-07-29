@@ -6,7 +6,7 @@ I am Álvaro, a 23 year old engineer. I'm interested in Data Science and the won
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
 ## :thought_balloon: About me
-- 📚 Finishing my degree at the University of Salamanca
+- 🤖 Learning how to train the best IA models.
 - :technologist: Working as researcher in the area of Big Data at BISITE research group
 - 🌱 Discovering step by step that thing we call Arch Linux
 
@@ -24,9 +24,9 @@ I am Álvaro, a 23 year old engineer. I'm interested in Data Science and the won
 - 🖥️: <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 
 ## 📑 Personal Projects
-- TFG
-- PyRace
-- Connect 4 AI
+- Social Sentiment
+- Spanish Sentiment Dataset
+- Advent Of Code
 
 ## 🚀 Some stats
 
