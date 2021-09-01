@@ -7,7 +7,7 @@ I am Álvaro, a 23 year old engineer. I'm interested in Data Science and the won
 
 ## :thought_balloon: About me
 - 🤖 Learning how to train the best IA models.
-- :technologist: Working as researcher in the area of Big Data at BISITE research group
+- :technologist: Working as developer in Locker In The City, Madrid
 - 🌱 Discovering step by step that thing we call Arch Linux
 
 ## 🛠 My tech stack
