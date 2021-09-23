@@ -38,5 +38,5 @@ I am Álvaro, a 23 year old engineer. I'm interested in Data Science and the won
 <p align="center">
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-mart%C3%ADn-l%C3%B3pez-84764a18b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:almarlop98@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/15864677/ajburri"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/16983049/ajburri"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
