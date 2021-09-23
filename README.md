@@ -3,7 +3,7 @@
 I am Álvaro, a 23 year old engineer. I'm interested in Data Science and the wonderful world of Linux.
 
 ## Visitors:
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Alburrito)
 
 ## :thought_balloon: About me
 - 🤖 Learning how to train the best IA models.
