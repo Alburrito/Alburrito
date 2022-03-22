@@ -20,7 +20,7 @@ I am a computer engineer who likes to tinker with computer stuff like Python, Li
 ### Backend
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-### IA
+### Data Science / AI
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=black"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 
 ### Databases
