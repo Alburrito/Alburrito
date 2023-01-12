@@ -33,15 +33,8 @@ I am a computer engineer who likes to tinker with computer stuff like Python, Li
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Postman-%23F05032.svg?style=for-the-badge&logo=postman&logoColor=white"/><img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white"/>
 
 
-## 🚀 Some stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alburrito&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alburrito&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Contact me!
 <p align="center">
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-mart%C3%ADn-l%C3%B3pez-84764a18b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:almarlop98@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/16983049/ajburri"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
